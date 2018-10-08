@@ -8,3 +8,6 @@
 2. Day 0: Weighted Mean
     - [Problem](https://www.hackerrank.com/challenges/s10-weighted-mean/problem)
     - [Solution](./day-0-weighted-mean/solution.js)
+3. Day 1: Quartiles
+    - [Problem](https://www.hackerrank.com/challenges/s10-quartiles/problem)
+    - [Solution](./day-1-quartiles/solution.js)
